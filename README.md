@@ -19,9 +19,9 @@ Clone the project by using terminal:
 ```
 git clone https://github.com/ReAliens/enumerable.git
 
-cd Morse-code
+cd enumerable
 
-ruby morse.rb
+ruby my_list.rb
 ```
 
 ### Prerequisites
