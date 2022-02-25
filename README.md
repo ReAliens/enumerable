@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Decode a Morse code message
+# Enumerable
 
-> In this project we are going to sovlve a basic coding challenge. we are going to create 3 methods to decode the Morse code, if you are curious to know more about Morse code check this [link](https://en.wikipedia.org/wiki/Morse_code)
+> In this project you will learn how to use a module inside your class. For this you will create a class MyList and a module MyEnumerable. Your module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 
 ## Built With
@@ -17,11 +17,11 @@ To get a local copy up and running follow these simple example steps.
 Clone the project by using terminal:
 
 ```
-git clone https://github.com/NasKhalil/Morse-code.git
+git clone https://github.com/ReAliens/enumerable.git
 
-cd Morse-code
+cd enumerable
 
-ruby morse.rb
+ruby my_list.rb
 ```
 
 ### Prerequisites
@@ -49,7 +49,7 @@ ruby morse.rb
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ReAliens/morse-code/issues).
+Feel free to check the [issues page](https://github.com/ReAliens/enumerable/issues).
 
 ## Show your support
 
